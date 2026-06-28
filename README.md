@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=9370DB&center=true&vCenter=true&width=600&lines=Hi,+I'm+Marco+(makrozai)+%F0%9F%91%8B;Technical+Marketer+%26+Community+Manager;Full+Stack+%26+Frontend+Engineer;Developer+Experience+(DX)+Advocate" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=9370DB&center=true&vCenter=true&width=600&lines=Hi,+I'm+Marco+(makrozai)+%F0%9F%91%8B;Full+Stack+%26+Frontend+Engineer;AI+%26+LLM+Engineer;Developer+Experience+(DX)" alt="Typing SVG" />
 </div>
 
 <p align="center">
-  <strong>Bridging the gap between code and community.</strong><br>
-  <em>Specializing in Developer Tooling, Product Sense, and Tech Communities</em>
+  <strong>Building highly scalable web architectures and AI-driven solutions.</strong><br>
+  <em>Specializing in Developer Infrastructure, Product Sense, and Artificial Intelligence</em>
 </p>
 
 <div align="center">
@@ -22,11 +22,13 @@
 
 ## 🚀 About Me
 
-I bring a unique blend of **8 years of deep technical experience** and a strong passion for **Marketing, SEO, and Community Building**. I don't just write code—I build products that users love and foster the communities that support them.
+I am a **Professional Full Stack & Frontend Engineer** with **8 years of experience** building scalable, high-performance applications. I specialize in architecting complex systems and empowering teams through world-class developer tooling. 
 
-- 💜 **Technical Marketing & Community:** I leverage my understanding of complex technical systems to effectively communicate product value, grow technical communities (like my Discord and stream channels), and drive product adoption.
-- ⚙️ **Developer Experience (DX):** I build tools that make other developers' lives easier. I've designed transversal Design Systems and robust tooling architectures.
-- 💻 **Frontend & Full Stack Architecture:** Creating highly scalable, performant web interfaces using React/Next.js, and crafting backend microservices.
+Recently, my focus has expanded deeply into **AI Engineering**, integrating cutting-edge models into production environments.
+
+- 🧠 **AI & LLM Engineering:** Extensive experience working with state-of-the-art AI technologies, including **Claude, DeepSeek, OpenCode, and various LLMs**, to build intelligent, generative solutions that solve real-world problems.
+- ⚙️ **Developer Experience (DX):** I build robust infrastructure that accelerates product delivery. I have designed and led transversal Design Systems used across multiple digital products.
+- 💻 **Frontend & Full Stack Architecture:** Expert in crafting highly modular, responsive web interfaces using React.js/Next.js and Vue.js, backed by scalable cloud architectures (AWS, Azure) and solid CI/CD pipelines.
 - 🎓 **Education:** Currently completing my Systems & Informatics Engineering degree.
 - 📍 **Location:** Lima, Peru (GMT-5).
 
@@ -36,6 +38,13 @@ I bring a unique blend of **8 years of deep technical experience** and a strong 
 
 <div align="center">
   
+### 🤖 AI & Machine Learning
+<img src="https://img.shields.io/badge/Claude_AI-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenAI_LLMs-412991?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/DeepSeek-0055FF?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenCode-9370DB?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Prompt_Engineering-9370DB?style=for-the-badge&logoColor=white" />
+
 ### 🌐 Frontend & Frameworks
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
@@ -51,12 +60,6 @@ I bring a unique blend of **8 years of deep technical experience** and a strong 
 <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
-
-### 📈 Marketing, SEO & Community
-<img src="https://img.shields.io/badge/SEO_&_GEO-9370DB?style=for-the-badge&logo=google&logoColor=white" />
-<img src="https://img.shields.io/badge/Community_Management-9370DB?style=for-the-badge&logo=discourse&logoColor=white" />
-<img src="https://img.shields.io/badge/Technical_Writing-9370DB?style=for-the-badge&logo=medium&logoColor=white" />
-<img src="https://img.shields.io/badge/Product_Sense-9370DB?style=for-the-badge&logo=producthunt&logoColor=white" />
 
 </div>
 
