@@ -1,0 +1,34 @@
+export const meta = {
+  title: 'Integrando DeepSeek en Flujos de Producción',
+  date: '2026-06-28',
+  slug: 'deepseek-production',
+  excerpt: 'Cómo cerrar la brecha entre modelos de IA experimentales y sistemas de producción escalables usando DeepSeek.'
+};
+
+# Integrando DeepSeek en Flujos de Producción
+
+Bienvenidos a mi primer artículo del portfolio. Como Ingeniero de IA y Full Stack, constantemente exploro cómo cerrar la brecha entre modelos de IA experimentales y sistemas de producción escalables y altamente confiables.
+
+## ¿Por qué DeepSeek?
+
+DeepSeek ha demostrado un potencial increíble en tareas de razonamiento y código. Sin embargo, integrarlo en un entorno empresarial requiere considerar:
+- **Estrategias de Rate Limiting y Fallback**
+- **Optimización de prompts para baja latencia**
+- **Eficiencia de costos a gran escala**
+
+### Ejemplo de Código
+
+Aquí hay un fragmento rápido de cómo podrías encapsular una llamada a la API con un patrón moderno:
+
+```javascript
+async function fetchAIResponse(prompt) {
+  const response = await fetch('https://api.deepseek.com/v1/chat/completions', {
+    method: 'POST',
+    headers: { 'Authorization': `Bearer ${process.env.API_KEY}` },
+    body: JSON.stringify({ messages: [{ role: "user", content: prompt }] })
+  });
+  return response.json();
+}
+```
+
+Mantente atento a futuros artículos donde profundizaré en arquitecturas Hexagonales y despliegues en la nube.

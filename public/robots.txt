@@ -1,0 +1,26 @@
+User-agent: *
+Allow: /
+
+# Ensure AI bots can read the portfolio for GEO (Generative Engine Optimization)
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+User-agent: GPTBot
+Allow: /
+
+Sitemap: https://makrozai.github.io/makrozai/sitemap.xml
