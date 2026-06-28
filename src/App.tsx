@@ -1,9 +1,11 @@
-import React, { useEffect } from 'react';
+
 import { BrowserRouter, Routes, Route, useLocation } from 'react-router-dom';
 import { HelmetProvider } from 'react-helmet-async';
 import { Home } from './components/pages/Home';
 import { BlogIndex } from './components/pages/BlogIndex';
 import { BlogPost } from './components/pages/BlogPost';
+
+import { useEffect } from 'react';
 
 // Scroll to hash on page load or route change
 const ScrollToHashElement = () => {
